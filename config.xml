@@ -13,14 +13,15 @@
     <preference name="android-minSdkVersion" value="14" />
     <preference name="android-targetSdkVersion" value="24" />
     <preference name="orientation" value="landscape" />
-   
+    <preference name="prerendered-icon" value="true"/>
+   <icon src="img/icon.png" gap:role="default" />
     <platform name="android">
-        <icon qualifier="ldpi" src="www/res/mitmap-ldpi-icon.png" />
-        <icon qualifier="mdpi" src="www/res/mitmap-mdpi-icon.png" />
-        <icon qualifier="hdpi" src="www/res/mitmap-hdpi-icon.png" />
-        <icon qualifier="xhdpi" src="www/res/mitmap-xhdpi-icon.png" />
-        <icon qualifier="xxhdpi" src="www/res/mitmap-xxhdpi-icon.png" />
-        <icon qualifier="xxxhdpi" src="www/res/mitmap-xxxhdpi-icon.png" />
+        <icon qualifier="ldpi" src="res/mitmap-ldpi-icon.png" />
+        <icon qualifier="mdpi" src="res/mitmap-mdpi-icon.png" />
+        <icon qualifier="hdpi" src="res/mitmap-hdpi-icon.png" />
+        <icon qualifier="xhdpi" src="res/mitmap-xhdpi-icon.png" />
+        <icon qualifier="xxhdpi" src="res/mitmap-xxhdpi-icon.png" />
+        <icon qualifier="xxxhdpi" src="res/mitmap-xxxhdpi-icon.png" />
         
     </platform>
    
