@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.whiteball.software" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>whiteballatable</name>
+    <description>
+        A software for roulette.
+    </description>
+    <author email="winroulettespinsoftware@gmail.com" href="http://winroulettespin.info">
+        WinRoulette Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="14" />
+    <preference name="android-targetSdkVersion" value="24" />
+    <preference name="orientation" value="landscape" />
+    <icon src="www/img/icon.png" />
+    <platform name="android">
+        <icon density="ldpi" src="www/res/mitmap-ldpi-icon.png" />
+        <icon density="mdpi" src="www/res/mitmap-mdpi-icon.png" />
+        <icon density="hdpi" src="www/res/mitmap-hdpi-icon.png" />
+        <icon density="xhdpi" src="www/res/mitmap-xhdpi-icon.png" />
+        <icon density="xxhdpi" src="www/res/mitmap-xxhdpi-icon.png" />
+        <icon density="xxxhdpi" src="www/res/mitmap-xxxhdpi-icon.png" />
+        
+    </platform>
+   
+</widget>
