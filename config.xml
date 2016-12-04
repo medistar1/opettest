@@ -23,6 +23,15 @@
         <icon qualifier="xhdpi" src="res/mitmap-xhdpi-icon.png" />
         <icon qualifier="xxhdpi" src="res/mitmap-xxhdpi-icon.png" />
         <icon qualifier="xxxhdpi" src="res/mitmap-xxxhdpi-icon.png" />
+        <splash qualifier="land-ldpi" src="res/screen-ldpi-landscape.png" />
+        <splash qualifier="land-mdpi" src="res/screen-mdpi-landscape.png" />
+        <splash qualifier="land-hdpi" src="res/screen-hdpi-landscape.png" />
+        <splash qualifier="land-xhdpi" src="res/screen-xhdpi-landscape.png" />
+        <splash qualifier="port-ldpi" src="res/screen-ldpi-portrait.png" />
+        <splash qualifier="port-mdpi" src="res/screen-mdpi-portrait.png" />
+        <splash qualifier="port-hdpi" src="res/screen-hdpi-portrait.png" />
+        <splash qualifier="port-xhdpi" src="res/screen-xhdpi-portrait.png" />
+       
         
     </platform>
    
